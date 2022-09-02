@@ -36,11 +36,11 @@ o	62.3% accuracy
 
 ![](images/SMOTE_report.png)
 •	Precision: 
-low-risk precision: 0.01
-o	high-risk precision: 1.00
+	* low-risk precision: 0.01
+	* high-risk precision: 1.00
 •	Recall: 
-o	High-risk: 0.61
-o	Low-risk: 0.64
+ 	* High-risk: 0.61
+	* Low-risk: 0.64
 
 ## Undersampling 
 
@@ -52,8 +52,8 @@ o	Low-risk: 0.64
 ![](images/under_report.png)
 
 •	Precision: 
- low-risk precision: 0.01
- high-risk precision: 1.00
+ * low-risk precision: 0.01
+ * high-risk precision: 1.00
 •	Recall: 
  * High-risk: 0.57
  * Low-risk: 0.45
