@@ -16,15 +16,15 @@ The balanced accuracy score, the precision and the recall scores of the 6 machin
 
 •	balanced accuracy: 0.6456 
 
-o	64.6% accuracy 
+   *	64.6% accuracy 
 
 ![](images/oversample_report.png)
 
 •	Precision: 
 
-o	low-risk precision: 0.01
+   * low-risk precision: 0.01
 
-o	high-risk precision: 1.00
+   * high-risk precision: 1.00
 
 •	Recall: 
 
