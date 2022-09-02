@@ -106,12 +106,12 @@ o	62.3% accuracy
 ![](images/ENABC_report.png)
 
 •	Precision: 
-	* low-risk precision: 0.09
-	* high-risk precision: 1.00
+	*  low-risk precision: 0.09
+	*  high-risk precision: 1.00
 	
 •	Recall: 
-	* High-risk: 0.92
-	* Low-risk: 0.94
+	*  High-risk: 0.92
+	*  Low-risk: 0.94
 
 
 # Summary 
