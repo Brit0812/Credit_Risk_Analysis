@@ -38,6 +38,7 @@ o	62.3% accuracy
 •	Precision: 
 	* low-risk precision: 0.01
 	* high-risk precision: 1.00
+	
 •	Recall: 
  	* High-risk: 0.61
 	* Low-risk: 0.64
@@ -54,6 +55,7 @@ o	62.3% accuracy
 •	Precision: 
  * low-risk precision: 0.01
  * high-risk precision: 1.00
+ 
 •	Recall: 
  * High-risk: 0.57
  * Low-risk: 0.45
@@ -70,6 +72,7 @@ o	62.3% accuracy
 •	Precision: 
 	* low-risk precision: 0.01
 	* high-risk precision: 1.00
+	
 •	Recall: 
 	* High-risk: 0.70
 	* Low-risk: 0.58
@@ -87,6 +90,7 @@ o	62.3% accuracy
 •	Precision: 
  	* low-risk precision: 0.03
  	* high-risk precision: 1.00
+	
 •	Recall: 
  	* High-risk: 0.70
 	* Low-risk: 0.87
@@ -104,6 +108,7 @@ o	62.3% accuracy
 •	Precision: 
 	* low-risk precision: 0.09
 	* high-risk precision: 1.00
+	
 •	Recall: 
 	* High-risk: 0.92
 	* Low-risk: 0.94
