@@ -47,32 +47,32 @@ o	Low-risk: 0.64
 ![](images/under_acc.png)
 
 •	balanced accuracy: 0.5102
-o	51% accuracy 
+    * 51% accuracy 
 
 ![](images/under_report.png)
 
 •	Precision: 
-o	low-risk precision: 0.01
-o	high-risk precision: 1.00
+ low-risk precision: 0.01
+ high-risk precision: 1.00
 •	Recall: 
-o	High-risk: 0.57
-o	Low-risk: 0.45
+ * High-risk: 0.57
+ * Low-risk: 0.45
 
 ## Combination (Over and Under) Sampling
 
 ![](images/combo_acc.png)
 
 •	balanced accuracy: 0.6396 
-o	64% accuracy 
+ * 64% accuracy 
 
 ![](images/combo_report.png)
 
 •	Precision: 
-o	low-risk precision: 0.01
-o	high-risk precision: 1.00
+	* low-risk precision: 0.01
+	* high-risk precision: 1.00
 •	Recall: 
-o	High-risk: 0.70
-o	Low-risk: 0.58
+	* High-risk: 0.70
+	* Low-risk: 0.58
 
 
 ## Balanced Random Forest Classifier
@@ -80,16 +80,16 @@ o	Low-risk: 0.58
 ![](images/BRFC_acc.png)
 
 •	balanced accuracy: 0.7886
-o	79% accuracy-BRFC
+	* 79% accuracy-BRFC
 
 ![](images/BRFC_report.png)
 
 •	Precision: 
-o	low-risk precision: 0.03
-o	high-risk precision: 1.00
+ 	* low-risk precision: 0.03
+ 	* high-risk precision: 1.00
 •	Recall: 
-o	High-risk: 0.70
-o	Low-risk: 0.87
+ 	* High-risk: 0.70
+	* Low-risk: 0.87
 
 
 ## Easy Ensemble AdaBoost Classifier
@@ -97,16 +97,16 @@ o	Low-risk: 0.87
 ![](images/ENABC_acc.png)
 
 •	balanced accuracy: 0.9317
-o	93.2% accuracy 
+	* 93.2% accuracy 
 
 ![](images/ENABC_report.png)
 
 •	Precision: 
-o	low-risk precision: 0.09
-o	high-risk precision: 1.00
+	* low-risk precision: 0.09
+	* high-risk precision: 1.00
 •	Recall: 
-o	High-risk: 0.92
-o	Low-risk: 0.94
+	* High-risk: 0.92
+	* Low-risk: 0.94
 
 
 # Summary 
