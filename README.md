@@ -11,15 +11,25 @@ In order to proceed with using machine learning, the data needs to “fit” the
 The balanced accuracy score, the precision and the recall scores of the 6 machine learning models, is as follows: 
 
 ## Naïve Random Oversampling
-Image- balanced accuracy-NRO
+
+![](images/oversample_acc.png)
+
 •	balanced accuracy: 0.6456 
+
 o	64.6% accuracy 
-Image- classification report-NRO
+
+![](images/oversample_report.png)
+
 •	Precision: 
+
 o	low-risk precision: 0.01
+
 o	high-risk precision: 1.00
+
 •	Recall: 
+
 o	High-risk: 0.61
+
 o	Low-risk: 0.68
 
 ## SMOTE Oversampling 
