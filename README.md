@@ -15,7 +15,6 @@ The balanced accuracy score, the precision and the recall scores of the 6 machin
 ![](images/oversample_acc.png)
 
 •	balanced accuracy: 0.6456 
-
    *	64.6% accuracy 
 
 ![](images/oversample_report.png)
@@ -25,19 +24,19 @@ The balanced accuracy score, the precision and the recall scores of the 6 machin
    * high-risk precision: 1.00
 
 •	Recall: 
-
-o	High-risk: 0.61
-
-o	Low-risk: 0.68
+	 * High-risk: 0.61
+	 * Low-risk: 0.68
 
 ## SMOTE Oversampling 
 
-Image- balanced accuracy-SMOTE
+![](images/SMOTE_acc.png)
+
 •	balanced accuracy: 0.6234
 o	62.3% accuracy 
-Image- classification report-SMOTE
+
+![](images/SMOTE_report.png)
 •	Precision: 
-o	low-risk precision: 0.01
+low-risk precision: 0.01
 o	high-risk precision: 1.00
 •	Recall: 
 o	High-risk: 0.61
@@ -45,10 +44,13 @@ o	Low-risk: 0.64
 
 ## Undersampling 
 
-Image- balanced accuracy-under
+![](images/under_acc.png)
+
 •	balanced accuracy: 0.5102
 o	51% accuracy 
-Image- classification report-under
+
+![](images/under_report.png)
+
 •	Precision: 
 o	low-risk precision: 0.01
 o	high-risk precision: 1.00
@@ -58,10 +60,13 @@ o	Low-risk: 0.45
 
 ## Combination (Over and Under) Sampling
 
-Image- balanced accuracy- combo
+![](images/combo_acc.png)
+
 •	balanced accuracy: 0.6396 
 o	64% accuracy 
-Image- classification report-combo
+
+![](images/combo_report.png)
+
 •	Precision: 
 o	low-risk precision: 0.01
 o	high-risk precision: 1.00
@@ -72,10 +77,13 @@ o	Low-risk: 0.58
 
 ## Balanced Random Forest Classifier
 
-Image- balanced accuracy-BRFC
+![](images/BRFC_acc.png)
+
 •	balanced accuracy: 0.7886
 o	79% accuracy-BRFC
-Image- classification report
+
+![](images/BRFC_report.png)
+
 •	Precision: 
 o	low-risk precision: 0.03
 o	high-risk precision: 1.00
@@ -86,10 +94,13 @@ o	Low-risk: 0.87
 
 ## Easy Ensemble AdaBoost Classifier
 
-Image- balanced accuracy-EEABC
+![](images/ENABC_acc.png)
+
 •	balanced accuracy: 0.9317
 o	93.2% accuracy 
-Image- classification report-EEABC
+
+![](images/ENABC_report.png)
+
 •	Precision: 
 o	low-risk precision: 0.09
 o	high-risk precision: 1.00
