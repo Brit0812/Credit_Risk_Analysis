@@ -24,24 +24,24 @@ The balanced accuracy score, the precision and the recall scores of the 6 machin
    * high-risk precision: 1.00
 
 •	Recall: 
-	 * High-risk: 0.61
-	 * Low-risk: 0.68
+   * High-risk: 0.61
+   * Low-risk: 0.68
 
 ## SMOTE Oversampling 
 
 ![](images/SMOTE_acc.png)
 
 •	balanced accuracy: 0.6234
-o	62.3% accuracy 
+   * 62.3% accuracy 
 
 ![](images/SMOTE_report.png)
 •	Precision: 
-	* low-risk precision: 0.01
-	* high-risk precision: 1.00
+   * low-risk precision: 0.01
+   * high-risk precision: 1.00
 	
 •	Recall: 
- 	* High-risk: 0.61
-	* Low-risk: 0.64
+   * High-risk: 0.61
+   * Low-risk: 0.64
 
 ## Undersampling 
 
@@ -53,12 +53,12 @@ o	62.3% accuracy
 ![](images/under_report.png)
 
 •	Precision: 
- * low-risk precision: 0.01
- * high-risk precision: 1.00
+   * low-risk precision: 0.01
+   * high-risk precision: 1.00
  
 •	Recall: 
- * High-risk: 0.57
- * Low-risk: 0.45
+   * High-risk: 0.57
+   * Low-risk: 0.45
 
 ## Combination (Over and Under) Sampling
 
@@ -70,12 +70,12 @@ o	62.3% accuracy
 ![](images/combo_report.png)
 
 •	Precision: 
-	* low-risk precision: 0.01
-	* high-risk precision: 1.00
+   * low-risk precision: 0.01
+   * high-risk precision: 1.00
 	
 •	Recall: 
-	* High-risk: 0.70
-	* Low-risk: 0.58
+   * High-risk: 0.70
+   * Low-risk: 0.58
 
 
 ## Balanced Random Forest Classifier
@@ -88,12 +88,12 @@ o	62.3% accuracy
 ![](images/BRFC_report.png)
 
 •	Precision: 
- 	* low-risk precision: 0.03
- 	* high-risk precision: 1.00
+   * low-risk precision: 0.03
+   * high-risk precision: 1.00
 	
 •	Recall: 
- 	* High-risk: 0.70
-	* Low-risk: 0.87
+   * High-risk: 0.70
+   * Low-risk: 0.87
 
 
 ## Easy Ensemble AdaBoost Classifier
@@ -106,12 +106,12 @@ o	62.3% accuracy
 ![](images/ENABC_report.png)
 
 •	Precision: 
-	*  low-risk precision: 0.09
-	*  high-risk precision: 1.00
+   *  low-risk precision: 0.09
+   *  high-risk precision: 1.00
 	
 •	Recall: 
-	*  High-risk: 0.92
-	*  Low-risk: 0.94
+   *  High-risk: 0.92
+   *  Low-risk: 0.94
 
 
 # Summary 
