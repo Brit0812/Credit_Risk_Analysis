@@ -2,7 +2,7 @@
 
 # Overview
 
-The purpose of providing this analysis is to provide predictions, based on the data, using supervised machine learning. The goal was to provide a credit risk assessment: are they a good applicant? Are they trust worthy? What are the factors that make someone a high-risk credit applicant? 
+The purpose of this analysis is to provide predictions, based on the data, using supervised machine learning. The goal was to provide a credit risk assessment: are they a good applicant? Are they trust worthy? What are the factors that make someone a high-risk credit applicant? 
 
 In order to proceed with using machine learning, the data needs to “fit” the models being used. Shaping the data into usable data, that would be easily read and fed into the machine learning model. An issue with the data set provided was there were a lot of acceptable credit applicants vs the high-risk applicants. When one outweighs the other the model will more than likely incorrectly categorize future applicants. Since the model is likely to see someone who should be approved it will likely approve them as it doesn’t see many high-risk credit applicants. Especially when it comes to outliers or those who are on the line of being approved or denied. In order to correct the skewed data multiple imports are used to the correct the imbalanced data. 
 
